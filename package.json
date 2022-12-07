@@ -1,0 +1,19 @@
+{
+  "name": "x-mas-birthday-lists",
+  "version": "1.0.0",
+  "description": "A wish-list organizer to avoid duplicate purchases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickdloucks/x-mas-birthday-lists.git"
+  },
+  "author": "Nick Loucks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickdloucks/x-mas-birthday-lists/issues"
+  },
+  "homepage": "https://github.com/nickdloucks/x-mas-birthday-lists#readme"
+}
