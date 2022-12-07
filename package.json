@@ -11,9 +11,12 @@
     "url": "git+https://github.com/nickdloucks/x-mas-birthday-lists.git"
   },
   "author": "Nick Loucks",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/nickdloucks/x-mas-birthday-lists/issues"
   },
-  "homepage": "https://github.com/nickdloucks/x-mas-birthday-lists#readme"
+  "homepage": "https://github.com/nickdloucks/x-mas-birthday-lists#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
 }
